@@ -3,7 +3,7 @@
 ## ✨ Passionate about development, guitars, music, movies and cats ✨
 
 - 🔭 I'm currently working at Munka Brazil
-- 🌱 I’m currently learning [React, Nodejs]
+- 🌱 I’m currently learning [websocket]
 - 👯 I’m looking to collaborate on student projects
 - 💬 Ask me about [MySQL, React.js, Node.js, Javascript, HTML, CSS, Github]...
 - 📫 How to reach me: Linkedin [LINK](https://www.linkedin.com/in/rafael-silva-de-simas/)
