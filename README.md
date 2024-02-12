@@ -1,6 +1,6 @@
 ### Hi I'm Rafael Simas 👋
 
-## ✨ Passionate about guitars, music, movies and technology ✨
+## ✨ Passionate about development, guitars, music, movies and cats ✨
 
 - 🔭 I'm currently working at Munka Brazil
 - 🌱 I’m currently learning [React, Nodejs]
